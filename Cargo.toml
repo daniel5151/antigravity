@@ -2,7 +2,7 @@
 name = "antigravity"
 description = "https://xkcd.com/353/"
 authors = ["Daniel Prilik <danielprilik@gmail.com>"]
-version = "0.0.3"
+version = "0.0.4"
 license = "MIT"
 edition = "2018"
 readme = "README.md"
