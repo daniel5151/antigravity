@@ -2,11 +2,11 @@
 name = "antigravity"
 description = "https://xkcd.com/353/"
 authors = ["Daniel Prilik <danielprilik@gmail.com>"]
-version = "0.0.2"
+version = "0.0.3"
 license = "MIT"
 edition = "2018"
 readme = "README.md"
-documentation = "https://xkcd.com/353/"
+documentation = "https://docs.rs/antigravity/"
 homepage = "https://xkcd.com/353/"
 repository  = "https://github.com/daniel5151/antigravity"
 keywords = ["xkcd", "joke", "python", "flying"]
