@@ -1,8 +1,8 @@
 [package]
 name = "antigravity"
 description = "https://xkcd.com/353/"
-authors = ["Daniel Prilik <danielprilik@gmail.com>"]
-version = "0.0.4"
+authors = ["Daniel Prilik <danielprilik@gmail.com>", "Error-42 <erroruplus002d42@gmail.com>"]
+version = "0.0.5"
 license = "MIT"
 edition = "2018"
 readme = "README.md"
@@ -12,3 +12,5 @@ repository  = "https://github.com/daniel5151/antigravity"
 keywords = ["xkcd", "joke", "python", "flying"]
 
 [dependencies]
+webbrowser = "0.7.1"
+md5 = "0.7.0"
